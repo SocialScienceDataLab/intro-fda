@@ -1,2 +1,4 @@
 # intro-fda
 Functional Data Analysis in a Nutshell
+
+Functional data analysis (FDA) is a field of statistics that deals with the analysis of data that has a functional character. Functional data includes curves, images, surfaces and trajectories. In the following we will focus on curves. Growth curves are an example for one-dimensional functional data observed over time. Other examples are spectrometric measures over wavelength or blood markers measured continuously over time. FDA is applied in diverse fields including biometry, demography, medicine, linguistics and finance.  Instead of analyzing single points on the curves, FDA treats each curve as one observation unit. The talk will approach FDA rather intuitively using to give an idea of functional data. The talk covers basic summary statistics like mean and variance for functional data and contains an outlook to more complex methods like regression with functional data. 
