@@ -5,5 +5,7 @@ Functional data analysis (FDA) is a field of statistics that deals with the anal
 
 
 Introduction to FDA:
+
 Ramsay & Silverman (2005), Functional data analysis, Springer, New York. 
+
 Homepage of the book: http://www.psych.mcgill.ca/misc/fda/
